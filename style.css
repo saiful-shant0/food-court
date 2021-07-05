@@ -6,3 +6,24 @@
 .row_size{
     width: 50%;
 }
+span{
+    color: orange;
+}
+
+
+.setup{
+    margin-top: 90px;
+    margin-left: 60px;
+
+}
+h1{
+  font-size: 70px;
+}
+a{
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 35px;
+}
