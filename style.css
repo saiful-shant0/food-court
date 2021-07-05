@@ -1,0 +1,8 @@
+.same_row{
+    display: flex;
+
+}
+
+.row_size{
+    width: 50%;
+}
