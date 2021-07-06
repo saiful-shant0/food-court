@@ -32,6 +32,12 @@ a{
     color: white;
     padding: 10px 15px;
     border-radius: 35px;
+    display: inline-block;
+    margin-top: 60px;
+}
+#about{
+ margin-top: 100px;
+ margin-bottom: 30px;
 }
 #background{
     background-image: url(images/back2.jpg);
@@ -46,4 +52,17 @@ a{
     padding: 10px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;    
+}
+.pic{
+    border-radius: 10px;
+}
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 2px;
+}
+#space{
+    padding-top: 8px;
 }
