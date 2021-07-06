@@ -1,6 +1,8 @@
 .same_row{
     display: flex;
-    
+}
+#head{
+    background-color: tomato;
 
 }
 
