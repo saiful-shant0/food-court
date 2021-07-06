@@ -1,5 +1,6 @@
 .same_row{
     display: flex;
+    
 
 }
 
@@ -8,6 +9,11 @@
 }
 span{
     color: orange;
+}
+
+.recipe{
+    text-align: center;
+    margin: 2%;
 }
 
 
@@ -32,4 +38,12 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+.box{
+    width: 24%;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;    
 }
