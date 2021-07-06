@@ -6,6 +6,8 @@ body{
 }
 #head{
     background-color: tomato;
+    text-align: right;
+    color: white;
 
 }
 
